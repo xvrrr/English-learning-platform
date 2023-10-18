@@ -1,0 +1,6 @@
+The third party module include pygame
+                                      pip install pygame
+                               tkinter
+                                      pip install tkinter
+                               translate
+                                      pip install translate
